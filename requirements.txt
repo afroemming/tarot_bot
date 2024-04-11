@@ -8,7 +8,7 @@ colorama==0.4.3
 discord.py
 distlib==0.3.0
 filelock==3.0.12
-idna==2.9
+idna==3.7
 more-itertools==8.2.0
 multidict==4.7.5
 packaging==20.3
